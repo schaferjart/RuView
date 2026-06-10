@@ -1,0 +1,26 @@
+{
+  "cli_version": "0.4.5",
+  "checkpoint_id": "da71680bb8f5",
+  "strategy": "manual-commit",
+  "branch": "fix/cli-merged-ltf-csi-frames",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "v2/crates/wifi-densepose-cli/src/calibrate.rs"
+  ],
+  "sessions": [
+    {
+      "metadata": "/da/71680bb8f5/0/metadata.json",
+      "transcript": "/da/71680bb8f5/0/full.jsonl",
+      "context": "/da/71680bb8f5/0/context.md",
+      "content_hash": "/da/71680bb8f5/0/content_hash.txt",
+      "prompt": "/da/71680bb8f5/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 36938,
+    "cache_creation_tokens": 920639,
+    "cache_read_tokens": 69733343,
+    "output_tokens": 233184,
+    "api_call_count": 252
+  }
+}

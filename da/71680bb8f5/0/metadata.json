@@ -1,0 +1,31 @@
+{
+  "cli_version": "0.4.5",
+  "checkpoint_id": "da71680bb8f5",
+  "session_id": "1714fb87-24d4-4893-bb69-b9ce29dea370",
+  "strategy": "manual-commit",
+  "created_at": "2026-06-10T23:30:43.278501Z",
+  "branch": "fix/cli-merged-ltf-csi-frames",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "v2/crates/wifi-densepose-cli/src/calibrate.rs"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "ad673902969b",
+  "token_usage": {
+    "input_tokens": 36938,
+    "cache_creation_tokens": 920639,
+    "cache_read_tokens": 69733343,
+    "output_tokens": 233184,
+    "api_call_count": 252
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-06-10T23:30:42.925937Z",
+    "agent_lines": 11,
+    "human_added": 24,
+    "human_modified": 1,
+    "human_removed": 0,
+    "total_committed": 36,
+    "agent_percentage": 30.555555555555557
+  },
+  "transcript_path": ".claude/projects/-Users-janos-Documents-Hacking-RuView/1714fb87-24d4-4893-bb69-b9ce29dea370.jsonl"
+}
